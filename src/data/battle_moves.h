@@ -5,13 +5,6 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
         .effect = EFFECT_HIT,
         .power = 0,
         .type = TYPE_NORMAL,
-        .accuracy = 0,const struct BattleMove gBattleMoves[MOVES_COUNT] =
-{
-    [MOVE_NONE] =
-    {
-        .effect = EFFECT_HIT,
-        .power = 0,
-        .type = TYPE_NORMAL,
         .accuracy = 0,
         .pp = 0,
         .secondaryEffectChance = 0,
