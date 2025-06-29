@@ -54,7 +54,7 @@ const u8 gWartortlePokedexText[] = _(
 
 const u8 gBlastoisePokedexText[] = _(
     "The waterspouts that protrude from its\n"
-    "shell are highly accurate. Their bullets of\n"
+    "shell are highly accurate. Their blasts of\n"
     "water can precisely nail tin cans from\n"
     "a distance of over 160 feet.");
 
